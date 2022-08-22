@@ -1,0 +1,21 @@
+{
+  "name": "js_validator",
+  "version": "1.0.0",
+  "description": "A form validation tool for text and email forms. It will check for min and max lengths to include 'require' tags. It will not allow form submission until errors are checked",
+  "main": "app.js",
+  "scripts": {
+    "start": "snowpack dev",
+    "build": "snowpack build"
+  },
+  "keywords": [
+    "javascript",
+    "form",
+    "validation",
+    "html"
+  ],
+  "author": "cobb208",
+  "license": "ISC",
+  "devDependencies": {
+    "snowpack": "^3.8.8"
+  }
+}
